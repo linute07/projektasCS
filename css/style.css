@@ -1,0 +1,50 @@
+.container {
+    width: 100%;
+}
+
+.col {
+    height: 800px;
+    background: aqua;
+    border: 10px solid white;
+}
+
+#pirmas {
+    background-color: blue;
+    height: 200px;    
+}
+
+#antras {
+    background-color: blue;
+    height: 200px;    
+}
+
+#trecias {
+    background-color: blue;
+    height: 200px;    
+}
+
+#trecias1 {
+    background-color: blue;
+    height: 200px;    
+}
+
+#ketvirtas {
+    background-color: blue;
+    height: 400px;    
+}
+
+#penktas {
+    background-color: blue;
+    height: 400px;    
+}
+
+#tekstas {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 50px;    
+    color: white;
+}
+
+#tekstas:hover {
+    color: violet;
+}
